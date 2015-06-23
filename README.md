@@ -1,4 +1,5 @@
-# Simple JSON API with Sinatra
+# Simple JSON API with Sinatra [![Dependency Status](https://gemnasium.com/jankeesvw/simple-sinatra-api.svg)](https://gemnasium.com/jankeesvw/simple-sinatra-api)
+
 
 Install all the necessary gems with Bundler:
 
